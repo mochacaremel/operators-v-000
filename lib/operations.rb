@@ -4,8 +4,8 @@ if  speed < 40
   else puts not_safe
 end
 
-def not_safe?(speed)
-# 	speed > 60 ? "not_safe" : "safe"
-result = speed ? safe : not_safe
-	binding.pry
-end
+# def not_safe?(speed)
+# # 	speed > 60 ? "not_safe" : "safe"
+# result = speed ? safe : not_safe
+# 	binding.pry
+# end
