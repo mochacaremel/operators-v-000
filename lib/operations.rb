@@ -13,5 +13,5 @@ end
 
 def not_safe?(speed)
 	speed > 60 ? "not_safe" : "safe"
-result = speed ? safe : not_safe
+# result = speed ? safe : not_safe
 end
